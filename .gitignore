@@ -1,0 +1,7 @@
+cmake-build-debug
+cmake-build-relwithdebinfo
+cmake-build-release
+cmake-build-relwithdebinfo-visual-studio-x64
+out
+.idea
+.vs
