@@ -7,7 +7,7 @@ project(RBGT)
 
 # Options
 # =============================================================================
-option(USE_AZURE_KINECT "Use azure kinect"           ON)
+option(USE_AZURE_KINECT "Use azure kinect"           OFF)
 
 
 # Libraries
